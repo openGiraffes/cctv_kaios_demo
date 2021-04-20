@@ -1,0 +1,24 @@
+{
+  "name": "CCTV",
+  "description": "CCTV KaiOS 版",
+  "version": "1.0",
+  "launch_path": "/player.html",
+  "type": "privileged",
+  "origin": "app://kai.zixing.cctv",
+  "icons": {
+    "56": "/img/icon.png"
+  },
+  "userAgentInfo": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36",
+  "developer": {
+    "name": "zixing",
+    "url": "http://www.cctv.cn/"
+  },
+  "permissions": {
+    "attention": {},
+    "browser": {},
+    "mobilenetwork": {},
+	"systemXHR" : {}
+  },
+  "ime_default_softkey_bar": true,
+  "theme_color": "#00a1d6"
+}
